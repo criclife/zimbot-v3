@@ -37,14 +37,14 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['27634090203','']
-global.premium = ['27634090203','918188019676']
-global.botname = 'ZIM BOT INC'
-global.ownername = 'DRIPS'
-global.group1 = 'https://chat.whatsapp.com/EFsb8RCXV4jLEFk4eAcA1A'
-global.group2 = 'https://chat.whatsapp.com/HSfcYU13g5C8GxINWwSWoA'
-global.packname = 'ZIM BOT INC'
-global.ytchannel = 'https://youtu.be/ww4z2m3uORU'
+global.owner = ['94758663348']
+global.premium = ['94758663348']
+global.botname = '𝘔𝘪𝘴𝘴 𝘘𝘦𝘦𝘯 𝘞𝘈 𝘣𝘰𝘵'
+global.ownername = '𝚆𝚊_𝚋𝚘𝚝 24/7'
+global.group1 = ''
+global.group2 = ''
+global.packname = '𝘔𝘪𝘴𝘴 𝘘𝘦𝘦𝘯 𝘞𝘈 𝘣𝘰𝘵'
+global.ytchannel = ''
 global.monayawal = '100000'
 global.darahawal = '100'
 global.besiAwal = '15'
@@ -65,22 +65,22 @@ global.f3 = 'application/vnd.openxmlformats-officedocument.wordprocessingml.docu
 global.f4 = 'application/zip'
 global.f5 = 'application/pdf'
 global.f6 = 'application/vnd.android.package-archive'
-global.author = 'ZIM BOT INC'
+global.author = '𝚆𝚊_𝚋𝚘𝚝 24/7'
 global.flaming = 'https://flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=amped-logo&doScale=true&scaleWidth=800&scaleHeight=500&text='
 global.sessionName = 'session'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
 global.mess = {
-    success: '*success whoa*',
-        ban: '*Sorry, looks like u got banned😔😔 type .owner To request unban okay*',
-    horny: '*nsfw is disabled please ask owner to enable it*',
-    admin: '*this cmd is for admin only , l can feel you but sorry okay*',
-    botAdmin: '*with due respect can you please give bot adminship*',
-    owner: '*this cmd is for bot owner only , l can feel you but sorry okay*',
-    group: '*this feature is only for groups okay*',
-    private: '*this feature can only used in dm okay*',
-    bot: '*Special Features for User Bot Number okay*',
-    wait: '*whoa wait zim bot processing okay*',
+    success: '*සාර්ථකව අවසන් විය!* ✓',
+        ban: '*සමාවන්න, කරුණාකර බෝට්ගේ හිමිකරු සම්බන්ධ කරගන්න!!*',
+    horny: '*NSFW අක්‍රිය කර ඇත කරුණාකර එය සක්‍රීය කරන ලෙස හිමිකරුගෙන් විමසන්න!!*',
+    admin: '*මෙය ඇඩ්මින් වරු සදහා පමණක් වේ!!*',
+    botAdmin: '*පළමුව මාහට ඇඩ්මින් තනතුර ලබා දෙන්න!!*',
+    owner: '*බෝට්ගේ හිමිකරු සදහා පමණක් වේ!!*',
+    group: '*කණ්ඩායමක බාවිතය සදහා පමණි!!*',
+    private: '*පුද්ගලික සංවාදවල බාවිතය සදහා පමණි!!*',
+    bot: '*මෙම විශේෂාංගය බෝට් සඳහා පමණි!!*',
+    wait: '*මදක් රැදී සිටින්න...ඔබගේ ඉල්ලීම සැකසෙමින් පවතී!!*',
     endLimit: '*Brothers Daily Limit Has Expired, Type .buy limit amount limit to buy limit, Note: Limit will be reset every 12 hours*',
 }
 global.limitawal = {
