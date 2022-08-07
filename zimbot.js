@@ -485,7 +485,7 @@ randek = jsonDrips[randIndex];
     }, 
     {
       scheduled: true,
-      timezone: 'GMT/UTC + 5:30'
+      timezone: 'UTC+05:30'
      }
     )
 //thum
